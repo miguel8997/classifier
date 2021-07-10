@@ -6,7 +6,7 @@ app = Flask(__name__)
 CORS(app, support_credentials=True)
 
 # load the learner
-learn = load_learner(path='./models', file='stage-6')
+learn = load_learner(path='./models', file='stage-6.plk')
 classes = learn.data.classes
 
 
