@@ -1,5 +1,5 @@
 Flask
-gunicorn
-fastai==2.2.5
-torch==1.3.0
+gunicorn	
+https://github.com/fastai/fastai1/archive/master.zip
+torch
 flask_cors
